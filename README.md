@@ -6,7 +6,7 @@
 
 ![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115235-17d100d7-9f61-49f2-92fa-5f1e41c8761f.jpg)
 
-2) Нажимаем на настройки ![image](https://user-images.githubusercontent.com/63918733/176115382-0c59f830-508b-4acc-af3c-72792d335bb2.png)
+2) Нажимаем на настройки ![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115741-d3bb8ff5-6343-4656-858f-6da9e0708d45.jpg)
 
 
 ## 2.Добавление бота на аккаунт.
