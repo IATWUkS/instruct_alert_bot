@@ -30,3 +30,11 @@
 3) В поле ID telegram вводим полученный id с бота и нажимаем сохранить.
 
 ![Screenshot_2022-06-28-09-42-29-531_com example myapplication](https://user-images.githubusercontent.com/63918733/176116226-3259e0c4-7cf4-42c9-a929-95502a3d0992.jpg)
+
+## 3.Запуск мониторинга.
+
+Вводим в поле ввода /start и отправляем боту.
+
+![Screenshot_2022-06-28-10-20-19-199_org telegram messenger](https://user-images.githubusercontent.com/63918733/176118360-8fbc8972-c9f2-4ec4-9a0f-d6d25ff003e9.jpg)
+
+Прием сообщений запущен, теперь все уведомления будут приходить на привязанный аккаунт тг.
