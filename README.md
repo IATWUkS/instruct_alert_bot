@@ -9,6 +9,10 @@
 
 2) Нажимаем на настройки ![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115741-d3bb8ff5-6343-4656-858f-6da9e0708d45.jpg)
 
+3) В поле ID telegram вводим полученный id с бота и нажимаем сохранить.
+
+![Screenshot_2022-06-28-09-42-29-531_com example myapplication](https://user-images.githubusercontent.com/63918733/176116226-3259e0c4-7cf4-42c9-a929-95502a3d0992.jpg)
+
 
 ## 2.Добавление бота на аккаунт.
 
