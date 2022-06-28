@@ -3,4 +3,5 @@
 ## 1.Добавление бота на аккаунт.
 
 1) Нажимаем на поиск
-![IMG_20220628_093156](https://user-images.githubusercontent.com/63918733/176109355-f8c22d47-3564-4de7-96fe-6eb7b072b7b4.jpg)
+
+![IMG_20220628_093156](https://user-images.githubusercontent.com/63918733/176109525-af921577-6970-4b9f-8fa9-9b99f0f6aa39.jpg)
