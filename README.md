@@ -4,7 +4,8 @@
 
 1) Заходим в приложение Юниматик и переходим, в раздел об пользователе.
 
-![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115235-17d100d7-9f61-49f2-92fa-5f1e41c8761f.jpg)
+![Screenshot_2022-06-28-09-41-35-449_com example myapplication (1)](https://user-images.githubusercontent.com/63918733/176115899-c89cb57c-8571-4c71-9af0-754a90766cad.jpg)
+
 
 2) Нажимаем на настройки ![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115741-d3bb8ff5-6343-4656-858f-6da9e0708d45.jpg)
 
