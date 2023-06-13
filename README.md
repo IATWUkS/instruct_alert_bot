@@ -19,16 +19,20 @@
 
 ## 2.Добавление бота на аккаунт.
 
-1) Заходим в приложение Юниматик и переходим, в раздел: "Аккаунт".
+1) Заходим в приложение irrimatic и переходим, в раздел: "Пользователь".
 
-![Screenshot_2022-06-28-09-41-35-449_com example myapplication (1)](https://user-images.githubusercontent.com/63918733/176115899-c89cb57c-8571-4c71-9af0-754a90766cad.jpg)
+  
+![Screenshot_2023-06-13-08-37-11-836_com irrigation unimatica](https://github.com/IATWUkS/instruct_alert_bot/assets/63918733/bb282fec-d0b7-49c7-8559-30ffbcf95acf)
+
+
+![Screenshot_2023-06-13-08-37-16-553_com irrigation unimatica](https://github.com/IATWUkS/instruct_alert_bot/assets/63918733/edc8ab6c-91db-4bdd-987f-14a4ac8f040a)
 
 
 2) Нажимаем на настройки ![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115741-d3bb8ff5-6343-4656-858f-6da9e0708d45.jpg)
 
 3) В поле ID telegram вводим полученный id с бота и нажимаем сохранить.
 
-![Screenshot_2022-06-28-09-42-29-531_com example myapplication](https://user-images.githubusercontent.com/63918733/176116226-3259e0c4-7cf4-42c9-a929-95502a3d0992.jpg)
+![Screenshot_2023-06-13-08-37-19-851_com irrigation unimatica](https://github.com/IATWUkS/instruct_alert_bot/assets/63918733/5135532d-188d-473b-a62a-17cc5549b44b)
 
 ## 3.Запуск мониторинга.
 
