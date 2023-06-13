@@ -8,7 +8,6 @@
 
 2) Вводим названия бота: @irrimatic_protect_test_bot и нажимаем из выдачи результатов на Irrimatic Protect
 
-![IMG_20220628_093549](https://user-images.githubusercontent.com/63918733/176110280-eb44a164-b479-43db-a140-37d9e76defa3.jpg)
 
 3) Нажимаем кнопку старт или вводим /start.
 
