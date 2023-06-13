@@ -30,7 +30,7 @@
 
 2) Нажимаем на настройки ![Screenshot_2022-06-28-09-41-35-449_com example myapplication](https://user-images.githubusercontent.com/63918733/176115741-d3bb8ff5-6343-4656-858f-6da9e0708d45.jpg)
 
-3) В поле ID telegram вводим полученный id с бота и нажимаем сохранить.
+3) В поле ID telegram вводим полученный id с бота и нажимаем загрузить.
 
 ![Screenshot_2023-06-13-08-37-19-851_com irrigation unimatica](https://github.com/IATWUkS/instruct_alert_bot/assets/63918733/5135532d-188d-473b-a62a-17cc5549b44b)
 
